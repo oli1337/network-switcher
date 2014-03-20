@@ -1,0 +1,14 @@
+- Name: WiFi
+  Hotkey: Ctrl + NumPad1
+  Interfaces:
+  - Name: Wi-Fi
+- Name: Ethernet
+  Hotkey: Ctrl + NumPad2
+  Interfaces:
+  - Name: Ethernet
+- Name: Hybrid
+  Hotkey: Ctrl + NumPad3
+  Interfaces:
+  - Name: Wi-Fi
+  - Name: Ethernet
+    Metric: 500
