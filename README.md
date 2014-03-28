@@ -5,6 +5,7 @@ Network Switcher allows you to enable/disable network interfaces using hotkeys. 
 
 ### Installation
 [Download] the .zip, adjust config.yml to your needs and run NetworkSwitcher.exe
+To setup autostart check the [Wiki](Setup-autostart).
 
 ###Example Configuration
 ![](https://raw.githubusercontent.com/olibanjoli/network-switcher/master/images/ncpa.png)
@@ -45,5 +46,5 @@ When connected to a wired and a wireless network, Windows will automatically set
 Use at your own risk :-)
 
 [keys]:http://msdn.microsoft.com/en-us/library/system.windows.forms.keys.aspx
-[Download]:https://github.com/oli1337/network-switcher/blob/master/compiled/Debug.zip
+[Download]:https://github.com/olibanjoli/network-switcher/blob/master/compiled/Debug.zip
 [Metric]:http://support.microsoft.com/kb/299540
