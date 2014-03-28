@@ -15,7 +15,7 @@ In this example we will configure 3 different hotkeys.
 
 config.yml:
 ```yml
-- Name: WiFi
+- Name: Wi-Fi
   Hotkey: Ctrl + NumPad1
   Interfaces:
   - Name: Wi-Fi
