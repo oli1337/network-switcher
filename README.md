@@ -5,7 +5,7 @@ Network Switcher allows you to enable/disable network interfaces using hotkeys. 
 
 ### Installation
 [Download] the .zip, adjust config.yml to your needs and run NetworkSwitcher.exe
-To setup autostart check the [Wiki](Setup-autostart).
+To setup autostart check the [Wiki](wiki/Setup-autostart).
 
 ###Example Configuration
 ![](https://raw.githubusercontent.com/olibanjoli/network-switcher/master/images/ncpa.png)
