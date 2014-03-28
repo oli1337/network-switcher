@@ -39,10 +39,11 @@ Ctrl, Alt, Shift, Win
 See MSDN: [Keys]
 
 ### Note
-When connected to a wired and a wireless network, Windows will automatically set a Metric value for both interfaces. The wired interface will have a lower Metric by default so that the main traffic goes over the wired interface. You can override the Metric value as it is in the example if you want your main traffic to go through the wireless interface.
+When connected to a wired and a wireless network, Windows will automatically set a Metric value for both interfaces. The wired interface will have a lower Metric by default so that the main traffic goes over the wired interface. You can override the Metric value as it is in the example if you want your main traffic to go through the wireless interface. More information about [Metric].
 
 ### Disclaimer
 Use at your own risk :-)
 
 [keys]:http://msdn.microsoft.com/en-us/library/system.windows.forms.keys.aspx
 [Download]:https://github.com/oli1337/network-switcher/blob/master/compiled/Debug.zip
+[Metric]:http://support.microsoft.com/kb/299540
