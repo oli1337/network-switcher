@@ -4,7 +4,7 @@ Network Switcher
 Network Switcher allows you to enable/disable network interfaces using hotkeys. It is also possible to create groups of network interfaces to enable/disable multiple interfaces using one hotkey.
 
 ### Installation
-[Download] the .zip, adjust config.yml to your needs and run NetworkSwitcher.exe
+[Download] the .zip, adjust config.yml to your needs and run `NetworkSwitcher.exe`.
 To setup autostart check the [Wiki](../../wiki/Setup-autostart).
 
 ###Example Configuration
