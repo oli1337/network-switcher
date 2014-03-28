@@ -7,7 +7,7 @@ Network Switcher allows you to enable/disable network interfaces using hotkeys. 
 [Download] the .zip, adjust config.yml to your needs and run NetworkSwitcher.exe
 
 ###Example Configuration
-
+![](https://raw.githubusercontent.com/olibanjoli/network-switcher/master/images/ncpa.png)
 In this example we will configure 3 different hotkeys.
 - **Ctrl + NumPad1:** WiFi only
 - **Ctrl + NumPad2:** Ethernet only
